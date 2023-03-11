@@ -19,7 +19,10 @@
     "D-LATCH",
     "CLK",
     "4BMEM",
-    "4BC"
+    "4BC",
+    "2 X 1 MUX",
+    "D flip flop",
+    "Program Counter"
   ],
   "StarredChips": [
     "AND",
@@ -32,12 +35,10 @@
     "NAND_3",
     "CLOCK",
     "Adder_1B",
-    "FA_4B",
     "4BIT ALU",
     "SR latch",
     "D-LATCH",
-    "CLK",
-    "4BMEM",
+    "Program Counter",
     "4BC"
   ],
   "DisplayOptions": {
