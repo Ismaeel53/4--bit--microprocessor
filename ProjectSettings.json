@@ -21,8 +21,16 @@
     "4BMEM",
     "4BC",
     "2 X 1 MUX",
-    "D flip flop",
-    "Program Counter"
+    "D Flip-Flop",
+    "Program Counter",
+    "D-Flip Flop_CP",
+    "8B REGISTER_CPE",
+    "AND_3",
+    "2 x 4 Decoder",
+    "4 X 16 DECODER",
+    "4-BYTE MEMORY",
+    "sam",
+    "16 X 8 ROM"
   ],
   "StarredChips": [
     "AND",
@@ -39,7 +47,17 @@
     "SR latch",
     "D-LATCH",
     "Program Counter",
-    "4BC"
+    "4BC",
+    "D-Flip Flop_CP",
+    "8B REGISTER_CPE",
+    "TRI-STATE BUFFER",
+    "AND_3",
+    "2 x 4 Decoder",
+    "4 X 16 DECODER",
+    "BUS",
+    "4-BYTE MEMORY",
+    "sam",
+    "16 X 8 ROM"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 0,
