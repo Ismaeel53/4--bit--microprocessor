@@ -30,7 +30,11 @@
     "4 X 16 DECODER",
     "4-BYTE MEMORY",
     "sam",
-    "16 X 8 ROM"
+    "16 X 8 ROM",
+    "3 TO 8 DECODER",
+    "FetchDecodeCounter",
+    "CLU",
+    "LDA(Load) instr"
   ],
   "StarredChips": [
     "AND",
@@ -57,7 +61,11 @@
     "BUS",
     "4-BYTE MEMORY",
     "sam",
-    "16 X 8 ROM"
+    "16 X 8 ROM",
+    "3 TO 8 DECODER",
+    "FetchDecodeCounter",
+    "CLU",
+    "LDA(Load) instr"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 0,
