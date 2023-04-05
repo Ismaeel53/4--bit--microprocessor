@@ -157,7 +157,7 @@
   ],
   "SubChips": [
     {
-      "Name": "8B REGISTER_CPE",
+      "Name": "8B  REG  CPE",
       "ID": 2018221265,
       "Points": [
         {
@@ -288,7 +288,7 @@
       "Data": null
     },
     {
-      "Name": "8B REGISTER_CPE",
+      "Name": "8B  REG  CPE",
       "ID": 2087649333,
       "Points": [
         {
@@ -299,7 +299,7 @@
       "Data": null
     },
     {
-      "Name": "8B REGISTER_CPE",
+      "Name": "8B  REG  CPE",
       "ID": 1388149999,
       "Points": [
         {
@@ -310,7 +310,7 @@
       "Data": null
     },
     {
-      "Name": "8B REGISTER_CPE",
+      "Name": "8B  REG  CPE",
       "ID": 1281362373,
       "Points": [
         {
