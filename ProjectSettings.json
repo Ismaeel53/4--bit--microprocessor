@@ -49,7 +49,8 @@
     "OUT  PORT",
     "OR_8",
     "DEC INTR",
-    "INCREMENT INST"
+    "INCREMENT INST",
+    "IN INST"
   ],
   "StarredChips": [
     "AND",
@@ -96,7 +97,8 @@
     "OUT  PORT",
     "OR_8",
     "DEC INTR",
-    "INCREMENT INST"
+    "INCREMENT INST",
+    "IN INST"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 0,
