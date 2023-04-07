@@ -43,7 +43,7 @@
     {
       "Name": "INC PC",
       "ID": 638039225,
-      "PositionY": -1.940104,
+      "PositionY": -2.79565954,
       "ColourThemeName": "Red"
     },
     {
@@ -68,6 +68,12 @@
       "Name": "E4",
       "ID": 1147433982,
       "PositionY": -1.341146,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "E2",
+      "ID": 2051439861,
+      "PositionY": -2.011111,
       "ColourThemeName": "Red"
     }
   ],
@@ -992,7 +998,46 @@
         },
         {
           "X": 7.837778,
-          "Y": -1.940104
+          "Y": -2.79565954
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 1581233972,
+        "PinID": 873695527
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 2051439861
+      },
+      "WirePoints": [
+        {
+          "X": 3.9368515,
+          "Y": 3.5955205
+        },
+        {
+          "X": 4.594111,
+          "Y": 3.6328125
+        },
+        {
+          "X": 5.1146903,
+          "Y": -0.9765625
+        },
+        {
+          "X": 5.243026,
+          "Y": -0.9937448
+        },
+        {
+          "X": 5.333334,
+          "Y": -1.96666658
+        },
+        {
+          "X": 7.837778,
+          "Y": -2.011111
         }
       ],
       "ColourThemeName": "Red"
