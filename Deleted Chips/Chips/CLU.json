@@ -89,7 +89,7 @@
       "Data": null
     },
     {
-      "Name": "LDA",
+      "Name": "LDA(Load) instr",
       "ID": 484270357,
       "Points": [
         {
@@ -261,6 +261,37 @@
         {
           "X": 2.07333064,
           "Y": 2.5957284
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 474837515,
+        "PinID": 1714096516
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 484270357,
+        "PinID": 971352766
+      },
+      "WirePoints": [
+        {
+          "X": -1.5285641,
+          "Y": 4.26447964
+        },
+        {
+          "X": 0.989100158,
+          "Y": 4.296875
+        },
+        {
+          "X": 0.9760857,
+          "Y": 3.03385448
+        },
+        {
+          "X": 2.07333064,
+          "Y": 3.07572842
         }
       ],
       "ColourThemeName": "Red"
