@@ -18,3 +18,5 @@ Now you will have all the chips (one of them will be 4-BIT-MP )
 | Salman Ali  | 368948  |
 | Abdullah Ayaz  |  378499 |
 ### Special thanks to Waleed Amir 
+
+![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
