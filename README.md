@@ -19,4 +19,4 @@ Now you will have all the chips (one of them will be 4-BIT-MP )
 | Abdullah Ayaz  |  378499 |
 ### Special thanks to Waleed Amir 
 
-![micro controler diagram][(https://github.com/Ismaeel53/4--bit--microprocessor/blob/dc36094fbc83915dbffdf4d47e5f035aeb9a7e1d/Architecture/Micro%20CTRLR%20%20Diagram.png)](https://github.com/Ismaeel53/4--bit--microprocessor/blob/71ebe0f73e2e9d512fbe9f9271f946131173456b/Architecture/Micro%20CTRLR%20%20Diagram2.png)
+![micro controler diagram](https://github.com/Ismaeel53/4--bit--microprocessor/blob/71ebe0f73e2e9d512fbe9f9271f946131173456b/Architecture/Micro%20CTRLR%20%20Diagram2.png)
