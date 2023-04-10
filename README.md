@@ -9,3 +9,12 @@ Open the software again and click load project
 Click pt_123
 Now you will have all the chips (one of them will be 4-BIT-MP )
 
+## Collaboraters:
+| Name  | CMS ID |
+| ------------- | ------------- |
+| Waleed Amir   | 365843  |
+| Ismaeel Arif  |  387739 |
+| Syed Muhammad Muslim  | 381012  |
+| Salman Ali  | 368948  |
+| Abdullah Ayaz  |  378499 |
+### Special thanks to Waleed Amir 
