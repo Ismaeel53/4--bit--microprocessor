@@ -17,6 +17,18 @@ Now you will have all the chips (one of them will be 4-BIT-MP )
 | Syed Muhammad Muslim  | 381012  |
 | Salman Ali  | 368948  |
 | Abdullah Ayaz  |  378499 |
-### Special thanks to Waleed Amir 
 
+### Diagram of architecture:
 ![micro controler diagram](https://github.com/Ismaeel53/4--bit--microprocessor/blob/71ebe0f73e2e9d512fbe9f9271f946131173456b/Architecture/Micro%20CTRLR%20%20Diagram2.png)
+
+## Features:
+| OPCODE  | Name | Description |
+| ------------- | ------------- | ------------- |
+| 0000  | LOAD(LDA)  | Loads the immediate value to the accumulater|
+| 0001  |  ADD | Add the immediate value to the accumulator |
+| 0010  | SUB  | Subtract the immediate value to the accumulator |
+| 0011 | INC  | Add 1 to the value stored in the accumulator|
+| 0100  |  DEC | Subtract 1 to the value stored in the accumulator |
+| 0101  |  OUT | Output the value in the accumulator to the output port |
+| 0110  |  IN | Load the value from the input port to the accumulator |
+| 0111  |  JMP | Jump to the immediate address provided |
