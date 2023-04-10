@@ -26,11 +26,11 @@ A project used to demonstrate the design and working of 4-bit microprocessor and
 | 0111  |  JMP | Jump to the immediate address provided |
 
 ## How to use this program:
-To open the project download the software Digital Logic sim. \n
+To open the project download the software Digital Logic sim. <br />
 Make a project named as pt_123.
-Go to the following location on your computer: \n
-C:\Users\{user name}\AppData\LocalLow\SebastianLague\Digital Logic Sim\V1\Projects\pt_123 \n
+Go to the following location on your computer: <br />
+C:\Users\{user name}\AppData\LocalLow\SebastianLague\Digital Logic Sim\V1\Projects\pt_123 <br />
 Download the files form the repository in the above location.
-Open the software again and click load project. \n
+Open the software again and click load project. <br />
 Click pt_123
 Now you will have all the chips (one of them will be 4-BIT-MP )
